@@ -1,6 +1,6 @@
 ## # 👋 Hello ! Bienvenue sur mon GitHub
 
-Je m’appelle [Ton Prénom], je suis **Développeur Fullstack** passionné par le web, l’IA, et la création de projets qui ont un impact réel.  
+Je m’appelle Jibril, je suis **Développeur Fullstack** passionné par le web, l’IA, et la création de projets qui ont un impact réel.  
 Diplômé en Conception et Développement d’Applications, je poursuis actuellement un Mastère à l’IPSSI, tout en continuant à monter en compétences sur les stacks modernes.
 
 ## 💻 Compétences principales
